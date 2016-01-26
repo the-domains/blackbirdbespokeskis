@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Blackbird Bespoke Skis]]></title>
         <description><![CDATA[Blackbird Bespoke Skis]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/blackbirdbespokeskis/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jan 2016 03:54:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Jan 2016 03:56:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/blackbirdbespokeskis/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/edf0a6d5-a0c2-432a-9c54-51f11cbc8055.jpg">]]></description>
-            <link>undefinedf8c93467-263e-429c-9cd7-65c37a3384f9/index.html</link>
+            <link>https://thegrid.ai/blackbirdbespokeskis/f8c93467-263e-429c-9cd7-65c37a3384f9/index.html</link>
             <guid isPermaLink="false">f8c93467-263e-429c-9cd7-65c37a3384f9</guid>
-            <pubDate>Tue, 26 Jan 2016 03:54:21 GMT</pubDate>
+            <pubDate>Tue, 26 Jan 2016 03:56:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
